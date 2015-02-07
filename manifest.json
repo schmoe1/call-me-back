@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Call Me Back",
+  "version": "0.1.0",
+  "icons": {
+    "logo": "call_me_back_logo.png"
+  },
+  "permissions": [],
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "minimum_chrome_version": "28"
+}
