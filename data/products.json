@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dodecahedron",
+    "price": 2.05,
+    "canPurchase": true,
+    "soldOut": false,
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Dodeca is one of those gems.",
+    "images": [
+      "images/gem-01.gif",
+      "images/gem-02.gif",
+      "images/gem-03.gif"
+      ],
+    "reviews": [
+      {
+      "stars": 5,
+      "body": "I love this gem!",
+      "author": "joe@example.org",
+      "createdOn": 1397490980837
+      },
+      {
+      "stars": 1,
+      "body": "This gem sucks.",
+      "author": "tim@example.org",
+      "createdOn": 1397490980837
+      }]
+  },
+  {
+    "name": "Pentagonal Gem",
+    "price": 5.95,
+    "canPurchase": true,
+    "soldOut": false,
+    "description": "This beautiful five-sided gem ...",
+    "images": [
+      "images/gem-04.gif",
+      "images/gem-05.gif",
+      "images/gem-06.gif"
+      ],
+    "reviews": [{
+      "stars": 3,
+      "body": "I think this gem was just OK, could honestly use more shine, IMO.",
+      "author": "JimmyDean@example.org",
+      "createdOn": 1397490980837
+    }, {
+      "stars": 4,
+      "body": "Any gem with 12 faces is for me!",
+      "author": "gemsRock@example.org",
+      "createdOn": 1397490980837
+    }]
+  }
+]
