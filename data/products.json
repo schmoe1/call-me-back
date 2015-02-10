@@ -6,9 +6,7 @@
     "soldOut": false,
     "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Dodeca is one of those gems.",
     "images": [
-      "images/gem-01.gif",
-      "images/gem-02.gif",
-      "images/gem-03.gif"
+      "images/icon_128.png"
       ],
     "reviews": [
       {
@@ -31,9 +29,7 @@
     "soldOut": false,
     "description": "This beautiful five-sided gem ...",
     "images": [
-      "images/gem-04.gif",
-      "images/gem-05.gif",
-      "images/gem-06.gif"
+      "images/icon_128.png"
       ],
     "reviews": [{
       "stars": 3,
